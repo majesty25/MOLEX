@@ -4,7 +4,7 @@
 body {
     color: #777777;
     font-weight: 500;
-    background: #ffffff;
+    background: #d1d1d181;
     font-family: 'Quicksand', sans-serif;
 }
 
@@ -260,7 +260,7 @@ a:focus {
 }
 
 .logo-img{
-    width: 4.5em;
+    width: 6em;
     /* border-radius: 100%; */
 }
 
@@ -553,7 +553,7 @@ a:focus {
 .priorities{
     font-size: 19px;
     background-color: rgba(255, 255, 255, 0.459);
-    color: dodgerblue;
+    color: rgba(13, 28, 73, 0.808);
     box-shadow: 2px 2px 14px rgba(0, 0, 0, 0.4);
 
 }
