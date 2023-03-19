@@ -2195,6 +2195,6 @@ a:focus {
 
 @media screen and (max-width: 600px) {
     .donate{
-        background: #000000;
+        /* background: #000000; */
     }
 }
