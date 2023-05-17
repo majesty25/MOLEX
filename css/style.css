@@ -829,7 +829,7 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 45px 0;
-    background: rgba(5, 1, 21, 0.8);
+    background: rgba(5, 1, 21, 0.589);
 }
 
 .donate .donate-content {
@@ -2195,6 +2195,6 @@ a:focus {
 
 @media screen and (max-width: 600px) {
     .donate{
-        background: #000000;
+        /* background: #000000; */
     }
 }
